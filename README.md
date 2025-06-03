@@ -1,7 +1,8 @@
 # meiki
 
 [download](https://drive.google.com/uc?export=download&id=1OSKafAd2ydGoiWYugGWbU-DQ2zADMmGS) ver 2025-06-03<br>
-*downloads project as a tar.gz file; plain-text instruction manual included
+*downloads project as a tar.gz file; plain-text instruction manual included<br>
+*written in C; no dependencies
 
 The project contains two separate but related tools. Both tools make use of the .meiki plain-text flashcard format.
 
